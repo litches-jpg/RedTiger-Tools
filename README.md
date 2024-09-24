@@ -9,7 +9,6 @@
 
 <p>
   <h3 align="center">⭐ Don't forget to set the repository to "Star" ⭐</h3>
-  <h3 align="center">Join New Telegram: <a href="https://t.me/redtigersupport">t.me/redtigersupport</a></h3>
 </p>
 
 <h1>📜・Description:</h1>
